@@ -1,0 +1,25 @@
+{
+  "name": "idea-unica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WallaceSMiguel/idea-unica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WallaceSMiguel/idea-unica/issues"
+  },
+  "homepage": "https://github.com/WallaceSMiguel/idea-unica#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
